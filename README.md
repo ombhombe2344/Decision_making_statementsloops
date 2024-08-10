@@ -2,9 +2,9 @@
 # Decision_making_statementsloops
 ## if-else
 
-Aim: To study and implement C++ decision making statements.
+Aim-To study and implement C++ decision making statement loops
 
-Theory:Decision-making statements in C++ are essential for controlling the flow of a program based on certain conditions. These statements evaluate conditions and execute specific code blocks depending on whether the conditions are true or false. The primary decision-making statements in C++ include if, else if, else, switch, and conditional (ternary) operators. The if statement allows for executing a block of code if a condition is true, and can be extended with else if and else for multiple conditions. The switch statement provides a way to execute different code blocks based on the value of a variable, making it a suitable choice for situations with multiple possible discrete values. The conditional operator ?: offers a compact syntax for simple if-else conditions. These decision-making constructs enable developers to create dynamic and responsive programs that can adapt to varying inputs and scenarios, forming the backbone of logic control in software applications
+Theory-In programming, decision-making statements and loops are fundamental constructs that enable developers to control the flow of execution within a program. They allow for the creation of dynamic and responsive software that can adapt to varying conditions and perform repeated tasks efficiently. Loops, such as for, while, and do-while, allow a block of code to be executed repeatedly until a specified condition is met. The for loop is ideal for iterating a known number of times, often used when working with arrays or collections. The while loop checks the condition before each iteration and is useful when the number of iterations is not predetermined. The do-while loop ensures the code block is executed at least once, as the condition is evaluated after the loop's body
 # algorithm
 
 1. To print a pattern

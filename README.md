@@ -1,6 +1,6 @@
 
 # Decision_making_statementsloops
-##if-else
+## if-else
 
 Aim: To study and implement C++ decision making statements.
 

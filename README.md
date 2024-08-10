@@ -8,12 +8,21 @@ Theory:Decision-making statements in C++ are essential for controlling the flow 
 # algorithm
 To print a pattern
 Start
+
 Input:
+
 Prompt the user to enter an integer n.
+
 Read the integer n from the user.
+
 Generate Pattern:
+
 Loop: For each i from 1 to n (where i represents the current row number):
+
 Nested Loop: For each j from 1 to i (where j represents the number of stars in the current row):
+
 Print "* " (a star followed by a space).
+
 Print a newline to move to the next row.
+
 End

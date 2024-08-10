@@ -40,3 +40,34 @@ If i is even (i.e., i % 2 == 0):
 Print i followed by a newline
 
 End
+
+3. Password checker
+4. 
+Start the program.
+
+Set the correct password to 2344.
+
+Prompt the user to enter a password.
+
+Read the user's input password.
+
+Check if the entered password matches the correct password:
+
+If the passwords do not match:
+
+Display "Incorrect Password."
+
+Prompt the user to enter the password again.
+
+Read the new password input.
+
+Repeat the check until the entered password matches the correct password.
+
+If the passwords match:
+
+Display "System is Unlocked."
+
+End the loop and the program.
+
+End the program.
+
